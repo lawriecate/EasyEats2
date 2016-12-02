@@ -1,0 +1,40 @@
+{ "recipes": [
+  {
+    "id": 4,
+    "title": "Smoky bean chilli with quinoa",
+    "image": "http://ichef.bbci.co.uk/food/ic/food_16x9_506/recipes/smoky_bean_chipotle_stew_30894_16x9.jpg",
+    "description": "This delicious and nutritious bean stew gets its smoky flavour from chipotle paste, made from smoked jalapeno peppers.  \n\nThis meal provides 501 kcal, 18g protein, 71g carbohydrate (of which 18g sugars), 16g fat (of which 3g saturates), 17g fibre and 1.4g salt per portion.",
+    "video": "e4C4dcQm6AQ",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "2 medium onions, sliced",
+      "1 yellow pepper, deseeded, cut into chunks",
+      "1 medium sweet potato (approximately 300g/10½oz), peeled, cut into chunks",
+      "1 tsp ground coriander",
+      "1 tbsp plain flour",
+      "400g tin chopped tomatoes",
+      "2 tbsp chipotle paste (available at larger supermarkets and delicatessens)",
+      "400g tin cannellini beans, rinsed and drained",
+      "400g tin red kidney beans, rinsed and drained",
+      "salt and freshly ground black pepper",
+      "soured cream, to serve (optional)",
+      "150g/5oz quinoa, rinsed",
+      "1 ripe but firm avocado, halved, stone removed, flesh scooped out",
+      "1 lime, juice only",
+      "4 spring onions, finely sliced",
+      "1½ tbsp chopped fresh coriander, plus extra to garnish",
+      "salt and freshly ground black pepper"
+    ],
+    "instructions": [
+
+      "Heat the oil in a large heavy-based saucepan over a medium heat. Add the onions and fry for 2-3 minutes, stirring well. Add the pepper and sweet potato and fry for 3-4 minutes. Sprinkle over the coriander and flour, stir to combine, continue to fry for 30-40 seconds.",
+      "Add the chopped tomatoes, chipotle paste, beans and 600ml/20fl oz cold water to the saucepan. Stir well to combine and season with salt and pepper.",
+      "Bring to the boil, then simmer for 18-20 minutes, stirring more and more regularly as the cooking time progresses, until all of the vegetables are tender. Add water if it starts to dry out.",
+      "Meanwhile, for the quinoa, half-fill a saucepan with water and bring to the boil. Add the quinoa, stir well, then simmer for 12-15 minutes, or until just tender.",
+      "Cut the avocado into chunks and drizzle over the lime juice.",
+      "Drain the quinoa and put in a large bowl. Set aside to cool for 3-5 minutes, then fluff with a fork. Stir in the avocado, spring onions and coriander. Season with salt and pepper and mix well.",
+      "Spoon the quinoa onto plates and top with a ladleful of the stew. Serve a dollop of soured cream alongside."
+    ]
+  }
+]
+}

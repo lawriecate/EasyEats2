@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EasyEats2</string>
+    <string name="thumbnail">Meal thumbnail</string>
+    <string name="title_activity_meal_detail">Meal</string>
+    <string name="title_activity_main">EasyEats</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_video">Watch Recipe</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="facebook_app_id" translatable="false">199226990515575</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="title_activity_meal_cooking_view">Let\'s Cook</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="timer">Timer</string>
+    <string name="welcome_text">Welcome to EasyEats</string>
+    <string name="login_message">Please login to continue</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="share_meal">Share Meal</string>
+    <string name="clear_all">Clear All</string>
+</resources>

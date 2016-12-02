@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyEats2</string>
+    <string name="title_activity_meal_cooking_view">A Cocinar</string>
+    <string name="title_activity_meal_detail">Plato</string>
+    <string name="title_activity_video">Ver Receta</string>
+    <string name="breakfast">Desayuno</string>
+    <string name="dinner">Cena</string>
+    <string name="lunch">Comida</string>
+    <string name="login_message">Haz authenticar para continuar</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="timer">Minutero</string>
+    <string name="signed_out">Sin authenticación</string>
+    <string name="title_activity_main">EasyEats</string>
+    <string name="welcome_text">Bienvenidos a EasyEats</string>
+    <string name="clear_all">Eliminar Todas</string>
+</resources>
